@@ -1,2 +1,2 @@
-# Startup_Campus-Data_Science_Track
+# StartupCampus
 Startup Campus - Data Science Track Course
